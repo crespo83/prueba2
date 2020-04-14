@@ -6,6 +6,8 @@ public class Proyecto {
 
 		
 		System.out.println("MArio");
+		
+		System.out.println("");
 	}
 
 }
